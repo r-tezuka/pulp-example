@@ -1,3 +1,5 @@
+# Ref: https://techtekt.persol-career.co.jp/entry/tech/201215_01
+
 #ライブラリのインポート
 import pulp
 
